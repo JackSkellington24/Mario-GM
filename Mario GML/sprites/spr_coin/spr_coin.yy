@@ -2,7 +2,7 @@
     "id": "908790fd-f079-4a14-9af9-4034bdea2262",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_coin",
+    "name": "spr_mario_coin",
     "For3D": false,
     "HTile": false,
     "VTile": false,
